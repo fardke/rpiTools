@@ -1,0 +1,13 @@
+.vproject
+*.in
+config.*
+configure
+depcomp
+install-sh
+ltmain.sh
+missing
+xconfigure
+aclocal.m4
+
+autom4te.cache/
+build/
