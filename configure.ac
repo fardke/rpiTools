@@ -10,6 +10,7 @@ AC_PROG_LIBTOOL
 
 AC_CONFIG_FILES([
                  Makefile
+                 librpitools.pc
 ])
 
 AC_OUTPUT

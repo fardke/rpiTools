@@ -1,3 +1,6 @@
+pkgconfigdir = $(libdir)/pkgconfig
+pkgconfig_DATA = librpitools.pc
+
 lib_LTLIBRARIES = librpitools.la
 
 librpitools_la_SOURCES = src/PCD8544.c
